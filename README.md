@@ -2,9 +2,9 @@
 ## Table Content
 [Problem Statement](#problem-statement)
 [Data Source](#data-source)
-[]
-[]
-[]
+[Tools](#tools)
+[Data Cleaning](#data-cleaning)
+[Dashboard](#dashboard)
 ### Problem Statement
 Netflix wants to better understand which movie they should produce next, including the most suitable actors and directors. We have a dataset containing movie budgets, box office performance, actors, directors, and genres. 
 
@@ -22,4 +22,18 @@ The final dashboard should be clear, interactive, and visually compelling, enabl
 Movie Data : The primary dataset used for this analysis is the "Movie Data.xlsx" file, containing detailed information about each movie's performance (box office and budget), actors, directors and genres. 
 You can download the original datasource here: [Movie Dataset Excel file](https://github.com/user-attachments/files/28584956/Movies_Data.xlsx)
 
-Tools
+### Tools
+1. Power Query - I used Power Query for Data Cleaning
+2. Excel - I used Excel for Data Analysis
+3. Pivot Tables - for Creating the dashboard and Visualizations
+
+### Data Cleaning
+* Data loading and inspection.
+* Handling errors, missing values.
+* Data cleaning and formatting. The excel file after the data cleaning & preparation process can be downloaded here - [Movies Dashboard](https://github.com/user-attachments/files/28585229/Excel_Dashboard_Movies_Data_EP.xlsx)
+
+### Dashboard 
+<img width="419" height="313" alt="image" src="https://github.com/user-attachments/assets/30ea9c7d-eea7-4b59-bf46-60312a4cee54" />
+
+
+
