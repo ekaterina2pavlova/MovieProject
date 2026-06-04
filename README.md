@@ -82,8 +82,13 @@ in
 ```
 
 ### Recommendations
-Top 5 genres are Action, Comedy, etc. I would recommend Netfliz to produce a movie with one of these genres as they brought in more in box office revenie based on the data from 2012 to 2016
+Top 5 genres are Action, Comedy, etc. I would recommend Netflix to produce a movie with one of these genres as they brought in more in box office revenie based on the data from 2012 to 2016
 
 <img width="290" height="125" alt="image" src="https://github.com/user-attachments/assets/a63c99a1-296a-4896-af2e-890e8dbbf48c" />
+ 
+Top 5 movies are Horror by ROI. I would recommend Netflix to continue producing this genre for target fan-community
+
+<img width="350" height="110" alt="image" src="https://github.com/user-attachments/assets/0ccd5dc5-167d-4c67-a2ea-1d52e69f03a9" />
+
 
 
